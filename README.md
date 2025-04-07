@@ -1,1 +1,3 @@
 # Modeling-Department-Stores
+
+This is a repository for an ongoing project called <i>Modeling Department Stores</i> which builds 3D models of turn of the twentieth century department stores. The first store is John Walsh in Sheffield, UK from 1897 plans drawn by the firm Flockton, Gibbs & FLockton. The plans can be found at the Sheffield City Archive, CA206/2649/a1-d4. I am building the model in SketchUp, on the online, free version.
