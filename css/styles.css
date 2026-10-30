@@ -10833,3 +10833,21 @@ textarea.form-control-lg {
   background-position: center;
   background-size: cover;
 }
+
+.my-text {
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.my-list {
+  padding-left: 150px;
+  padding-right: 100px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.my-map {
+    height: 600px;
+    width: 100%;
+}   
